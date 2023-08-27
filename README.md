@@ -7,7 +7,7 @@ Personaliza la información que deseas ver utilizando parametros de línea de co
 Interfaz de línea de comandos sencilla y fácil de usar.
 # Instalacion
 ```
-git clone https://github.com/Entidad-4766/certenum.git && cd certenum
+git clone https://github.com/Entidad-4766/certenum.git && cd certenum && chmod +x certenum.py
 ```
 Despues instalamos los requirements
 ```
